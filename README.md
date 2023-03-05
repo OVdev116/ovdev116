@@ -1,7 +1,4 @@
-<div id="header" align="center">
-	<h1>👋 Hi there, I'm Olga</h1>
-	<h3>Front-end Developer </h3>
-</div>
+
 ### About me
 - 🌱 I’m currently learning **JavaScript, React**
 - 📝 I specialize in website development, I study JS, React
