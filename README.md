@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **JavaScript, React**
 - 📝 I specialize in website development, I study JS, React
 - 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [Telegram](https://t.me/OVKZr), [email](mailto:ovovdm@mail.ru)
+- 📫 Reach me by <a href="https://t.me/OVKZr"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+
 
 ### Languages and tools
 
