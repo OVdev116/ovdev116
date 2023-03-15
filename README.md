@@ -11,7 +11,7 @@
 - [aleks-park](https://degorov.ru/aleks-park/)
 - [Masterfibre](https://masterfibre-beta.ru/)
 - [CPU](https://degorov.ru/cpu/)
-- [Мультибрендовые бутики](https://b-b-i.ru/)
+
 
 
 ### Languages and tools
