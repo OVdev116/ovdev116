@@ -10,7 +10,7 @@
 - [sonotek.ru](https://sonotek.ru/)
 - [aleks-park](https://degorov.ru/aleks-park/)
 - [Masterfibre](https://masterfibre-beta.ru/)
-- [CPU](https://degorov.ru/cpu/)
+- [CPU](https://degorov.ru/cpu2/)
 
 
 
