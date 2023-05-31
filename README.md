@@ -6,13 +6,6 @@
 - 👀 I’m currently learning **JavaScript, React**
 - 📝 I specialize in website development
 - 📫 Reach me by <a href="https://t.me/OVKZr"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-### Projects:
-- [sonotek.ru](https://sonotek.ru/)
-- [aleks-park](https://xn----7sbbhkb1dbgfbm5az4ii.xn--p1ai/)
-- [Masterfibre](https://masterfibre-beta.ru/)
-- [CPU](https://degorov.ru/cpu2/)
-
-
 
 ### Languages and tools
 
